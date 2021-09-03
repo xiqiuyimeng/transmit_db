@@ -11,7 +11,7 @@
 3. 安装到本地类库：
    1. setup: 在 setup.py 同级目录下执行，`python setup.py install`
    2. wheel: 在 setup.py 同级目录下执行，`python setup.py bdist_wheel && pip install dist/*.whl`
-   3. 下载whl安装
+   3. 下载whl安装，或`pip install transmitDB`
 4. 使用方法：
    ```python
    # 导入 transmit_db
