@@ -3,7 +3,7 @@ import re
 from decimal import Decimal
 from datetime import timedelta
 from datetime import datetime
-from log import logger as log
+from .log import logger as log
 _author_ = 'luwt'
 _date_ = '2021/9/1 16:20'
 

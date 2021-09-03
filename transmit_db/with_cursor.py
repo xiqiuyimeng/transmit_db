@@ -1,6 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
 import pymysql
-from transmit_db.log import logger as log
+from .log import logger as log
 _author_ = 'luwt'
 _date_ = '2020/7/29 10:58'
 
